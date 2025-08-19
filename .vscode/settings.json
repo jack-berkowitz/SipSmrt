@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gap.h": "c",
+        "bluetooth.h": "c",
+        "types.h": "c",
+        "uuid.h": "c"
+    },
+    "nrf-connect.debugging.bindings": {
+        "${workspaceFolder}/build/SipSmrt": "Launch SipSmrt"
+    }
+}
